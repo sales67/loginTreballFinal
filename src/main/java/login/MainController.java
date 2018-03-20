@@ -5,8 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping(path="/auth")
-public class MainController {
-	
+public class MainController {	
 	
 }
 

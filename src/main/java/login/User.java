@@ -7,9 +7,9 @@ import java.util.Date;
 import java.util.List;
 
 @Entity
-@Table(name="USER_")
+@Table(name = "USER_")
 public class User {
-	
+
     @Id
     @Column(name = "ID")
     //@GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "user_seq")
